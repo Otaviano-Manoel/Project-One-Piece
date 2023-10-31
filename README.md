@@ -1,30 +1,46 @@
-## Index
+# Dev-em-Dobro - Project-One-Piece
+
+This project was developed during the "From 0 to Hired Programmer" week, organized by the twins Ricardo and Roberto Dias.
+
+## Table of contents
 
 - [Overview](#overview)
-       - [Screenshot](#screenshot)
-       - [Links](#links)
+  - [The challenge](#the-site)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
-       - [Built with](#built-with)
-- [Author](#author)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
 
 ## Overview
 
-This project was created during the “From 0 to the hired programmer” event on the “dev em dobro” channel by twins Ricardo and Roberto Dias.
+### The site
 
-### screenshot
+The website features a cover of a One Piece character and a brief description of the character. By clicking on the icons, it's possible to switch to a different character.
 
-![](./src/screenshot//desktop.png)
-![](./src/screenshot//mobile.png)
+### Screenshot
 
-### links
+![screen desktop](./src/img/screenshot-desktop.png)
+![screen mobile](./src/img/screenshot-mobile.png)
 
-- Active website URL: [View Site](https://otaviano-manoel.github.io/Project-One-Piece/)
+### Links
+
+- Live Site URL: [Live site URL here](https://otaviano-manoel.github.io/Project-One-Piece/)
 
 ## My process
 
 ### Built with
-<div style="display: inline_block"><br>
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+
+### What I learned
+
+A brief introduction for the course I've chosen to study HTML, CSS, and JavaScript.
+
+### Continued development
+
+I will continue my studies of HTML and CSS through the [DevQuest](https://devemdobro.com/matriculas-abertas/) course.
